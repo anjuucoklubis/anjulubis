@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+### About My Repository
+I'm sory but this part of my repository is private,
+You can only see my public repository⚡. 
+
+### Happy Fun
+- 🌱 I'm currently studying web development 🤣
+- 👯 I’m looking to collaborate with other web developers
+- ⚡ Fun fact: I love to play music example is play a piano 😄
 - 🔭 I’m currently working on [Ucok Music Learn](https://anjuucoklubis.github.io/ucokWPL.github.io/)
-
-- 🌱 I’m currently learning **Laravel, CodeIgniter, Bootstrap**
-
-- 👯 I’m looking to collaborate on **Sikemas**
-
-- 👨‍💻 All of my projects are available at [https://anjulubis.000webhostapp.com/](https://anjulubis.000webhostapp.com/)
-
 - 📫 How to reach me **anjuucoklubis@gmail.com**
 
-- ⚡ Fun fact **I love to play music example is play a piano**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
