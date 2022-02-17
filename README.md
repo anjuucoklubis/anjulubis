@@ -13,7 +13,7 @@ You can only see my public repository⚡.
 - 🌱 I'm currently studying web development 🤣
 - 👯 I’m looking to collaborate with other web developers
 - ⚡ Fun fact: I love to play music example is play a piano 😄
-- 🔭 I’m currently working on [Ucok Music Learn](https://anjuucoklubis.github.io/ucokWPL.github.io/)
+- 🔭 My Portfolio [Anju Lubis Portfolio](https://anjulubis.000webhostapp.com/)
 - 📫 How to reach me **anjuucoklubis@gmail.com**
 
 
